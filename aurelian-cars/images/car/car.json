@@ -1,0 +1,18 @@
+{
+  "bodyWidth": 1358,
+  "bodyHeight": 399,
+  "wheels": [
+    {
+      "name": "rear",
+      "left": 15.022,
+      "top": 51.128,
+      "width": 13.108
+    },
+    {
+      "name": "front",
+      "left": 77.761,
+      "top": 50.877,
+      "width": 13.108
+    }
+  ]
+}
